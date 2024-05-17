@@ -1,0 +1,76 @@
+body{
+    background-color: rgba(0, 83, 139, 0.199);
+  }
+  .navbar{
+      background-color: darkblue;
+  }
+  .navbar-brand{
+      color: white;
+      font-size: 30px;
+  }
+  .nav-link{
+      color: white;
+
+  }
+  .navbar-nav{
+      text-align: center;
+      padding-left: 100px;
+  }
+  .btn{
+      background-color: lightblue;
+      color: darkblue;
+      font-weight: bold;
+  }
+  
+  .hero-container{
+      text-align: center;
+      padding-top: 200px;
+      font-size: 20px;
+      background-color: lightblue;
+      color: darkblue;
+      height: 670px;
+  }
+  .hero-container h1{
+     font-size: 60px; 
+  }
+  .btn1{
+      background-color: darkblue;
+      color: lightblue;
+      padding: 15px;
+      border-radius: 40px;
+      border: 2px solid darkblue;
+  }
+  #about{
+      background-color: darkblue;
+      color: white;
+  }
+  .section-header{
+      text-align: center;
+      color: darkblue;
+      font-size: 20px;
+      background-color: lightblue;
+  }
+  #sponsers{
+    border: 2px solid darkblue;
+    border-radius: 30px;
+  }
+  .form-control{
+    border: 2px solid darkblue;
+  }
+  #btn{
+    border: 2px solid darkblue;
+    border-radius: 5px;
+  }
+  .card{
+    border: 2px solid darkblue;
+  }
+  #contact{
+    color: darkblue;
+  }
+  #lastcontainer{
+    color: darkblue;
+    text-align: center;
+  }
+  #speakers{
+    color: darkblue;
+  }
